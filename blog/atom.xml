@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://jnsdao.com/blog</id>
+    <title>JNS DAO Blog</title>
+    <updated>2023-01-28T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://jnsdao.com/blog"/>
+    <subtitle>JNS DAO Blog</subtitle>
+    <icon>https://jnsdao.com/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[🛠改版]]></title>
+        <id>rejunvenate</id>
+        <link href="https://jnsdao.com/blog/rejunvenate"/>
+        <updated>2023-01-28T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[奥德赛网站全面改版为jnsdao.com官网，内容亦有大幅优化调整。]]></summary>
+        <content type="html"><![CDATA[<p>奥德赛网站全面改版为jnsdao.com官网，内容亦有大幅优化调整。</p>]]></content>
+        <author>
+            <name>刘教链</name>
+            <uri>https://blockcoach.com</uri>
+        </author>
+        <category label="jnsdao" term="jnsdao"/>
+        <category label="odyssey" term="odyssey"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🚀上线]]></title>
+        <id>launch</id>
+        <link href="https://jnsdao.com/blog/launch"/>
+        <updated>2023-01-11T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[奥德赛网站全新上线啦！]]></summary>
+        <content type="html"><![CDATA[<p>奥德赛网站全新上线啦！</p>]]></content>
+        <author>
+            <name>刘教链</name>
+            <uri>https://blockcoach.com</uri>
+        </author>
+        <category label="jouleverse" term="jouleverse"/>
+        <category label="odyssey" term="odyssey"/>
+    </entry>
+</feed>

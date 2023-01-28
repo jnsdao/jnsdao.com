@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkodyssey=self.webpackChunkodyssey||[]).push([[365],{1994:s=>{s.exports=JSON.parse('{"label":"jnsdao","permalink":"/blog/tags/jnsdao","allTagsPath":"/blog/tags","count":1}')}}]);
