@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkodyssey=self.webpackChunkodyssey||[]).push([[253],{5803:e=>{e.exports=JSON.parse('[{"label":"jnsdao","permalink":"/en/blog/tags/jnsdao","count":1},{"label":"odyssey","permalink":"/en/blog/tags/odyssey","count":2},{"label":"jouleverse","permalink":"/en/blog/tags/jouleverse","count":1}]')}}]);

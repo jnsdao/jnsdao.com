@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkodyssey=self.webpackChunkodyssey||[]).push([[5703],{8567:s=>{s.exports=JSON.parse('{"label":"odyssey","permalink":"/en/blog/tags/odyssey","allTagsPath":"/en/blog/tags","count":2}')}}]);
