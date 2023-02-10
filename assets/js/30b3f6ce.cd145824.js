@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkodyssey=self.webpackChunkodyssey||[]).push([[206],{6055:e=>{e.exports=JSON.parse('{"label":"jouleverse","permalink":"/blog/tags/jouleverse","allTagsPath":"/blog/tags","count":1}')}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkodyssey=self.webpackChunkodyssey||[]).push([[535],{5641:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"\ud83d\udee0\u6539\u7248","permalink":"/blog/rejunvenate"},{"title":"\ud83d\ude80\u4e0a\u7ebf","permalink":"/blog/launch"}]}')}}]);
